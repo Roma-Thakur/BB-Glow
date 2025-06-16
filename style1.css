@@ -1,0 +1,76 @@
+.carousel-inner{
+    height: 100%;
+    /* min-width: 400%; */
+    display: flex;
+    transition: all ease .5s;
+    
+    }
+    .horizontal-scrollable > .row {  
+      overflow-x: auto;  
+      white-space: nowrap;  
+    }  
+    .carousel{
+      width: 80%;
+      margin-left: 150px;
+      height: 10%;
+      margin-bottom: 100px;
+    }
+    .navbar-brand{
+      font-size: xx-large;
+      padding-right: 1px;
+    }
+    .nav-link{
+      font-weight: bold;
+      font-size: xx-large;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: normal;
+    }
+    .col-md-6{
+      color: white;
+      padding-top: 5%;
+    }
+    /*img{
+      background: transparent;
+      padding-left: 15%;
+      padding-bottom: 20%;
+      border-color: #004080;
+      border: 2px;
+    }*/
+    button{
+         border-radius: 30px;
+         background-color: transparent;
+         border-color:cornflowerblue;
+         color: white;
+         margin-left: 4%;
+         padding-left: 2%;
+         padding-right: 2%;
+         padding-top: 1%;
+         padding-bottom: 1%;
+         font-size: large;
+         size: 30px;
+       }
+          
+       #wv{
+          font-size: large;
+          text-align: center;
+          border-radius: 35px;
+          width: 180px;
+          height:50px;
+       }  
+       h1{
+        /*padding-top: 60%;*/
+        color:brown; 
+        font-family:serif; 
+        font-size: 100px; 
+        font-weight: bold; 
+        /*padding-bottom: 80%;*/
+       }
+       p{
+        /*padding-top: 30px;*/
+        padding-bottom: 300px;
+        color:brown; 
+        font-family:serif; 
+        font-size: 50px;  
+       }
+
+    
